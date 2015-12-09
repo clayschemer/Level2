@@ -1,0 +1,149 @@
+EDA003 4
+EDA002 3
+EDA005 4
+EDA004 4
+EDA007 6
+EDA006 4
+EDA009 4
+EDA008 5
+EDA019 4
+EDA017 4
+EDA018 5
+EDA015 5
+EDA016 4
+EDA013 3
+EDA014 5
+EDA012 4
+EDA020 5
+EDA011 3
+EDA010 4
+EDA001 5
+#
+Andersson Arne
+EDA012 4
+EDA011 3
+EDA010 5
+#
+Bengtsson Bengt
+EDA010 4
+#
+Berg Anton
+EDA011 5
+#
+Carlsson Eva
+EDA012 5
+EDA020 4
+EDA014 4
+#
+Carlsson Gunilla
+EDA010 3
+#
+Davidsson Sven
+EDA011 4
+EDA019 3
+EDA014 5
+#
+Fredriksson Teddy
+EDA010 3
+EDA014 4
+#
+Grankvist Jan
+EDA019 3
+EDA014 4
+#
+Gustavsson Annika
+EDA010 4
+#
+Hedblad Bodil
+EDA020 3
+EDA010 4
+EDA018 3
+EDA016 5
+#
+Johansson Per
+EDA010 4
+#
+Johansson Susanne
+EDA012 5
+EDA010 4
+EDA014 3
+#
+Karlsson Britt
+#
+Karlsson Carl
+EDA010 3
+#
+Lingonkvist Bertil
+EDA012 3
+EDA020 5
+EDA017 3
+EDA018 4
+EDA015 5
+#
+Mansour Ali
+EDA012 4
+EDA011 3
+EDA010 5
+EDA013 5
+#
+Miller John
+EDA010 4
+#
+Nilsson Nils
+EDA012 5
+EDA016 3
+#
+Nilsson Stina
+EDA011 4
+#
+Olsson Olle
+EDA012 3
+EDA010 3
+#
+Olsson Petra
+EDA012 3
+EDA011 3
+#
+Pettersson Petter
+#
+Purinen Pirjo
+EDA011 3
+EDA016 4
+#
+Ramirez Ernesto
+EDA012 4
+EDA020 4
+EDA011 3
+EDA019 4
+EDA017 5
+EDA016 4
+EDA013 4
+#
+Svensson Astrid
+#
+Svensson Stig
+#
+Svensson Tora
+EDA011 4
+EDA010 3
+#
+Turino Sebastian
+EDA012 3
+EDA015 5
+EDA014 4
+#
+Ullman Lisa
+EDA011 3
+EDA016 4
+#
+Vargas Luigi
+#
+Vastesson Vera
+EDA011 3
+EDA014 4
+#
+Ydren Yngve
+#
+Zakarias Isidor
+EDA010 4
+#

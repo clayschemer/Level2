@@ -1,0 +1,15 @@
+EDA010
+Andersson Arne
+5
+Bengtsson Bengt
+4
+Fredriksson Teddy
+3
+Hedblad Bodil
+4
+Olsson Olle
+3
+Svensson Tora
+3
+Zakarias Isidor
+4
